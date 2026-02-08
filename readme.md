@@ -1,6 +1,6 @@
 # Homework-6: Interactive Contact Form 📬
 
-![Contact Form Preview](images/preview.png) <!-- Assuming a preview image exists or can be added -->
+![Contact Form Preview](https://github.com/user-attachments/assets/88361551-caa1-4ffc-8407-8e5fd4ecd5e3) <!-- Assuming a preview image exists or can be added -->
 
 ## 📋 Overview
 This project is a simple, animated contact form built with pure HTML and CSS. It's designed as a homework assignment (Homework-6) to demonstrate floating labels, form animations, responsive design, and basic styling without any JavaScript. The form includes fields for name, email, and message, with a send button. It's deployed automatically to GitHub Pages via a GitHub Actions workflow.
